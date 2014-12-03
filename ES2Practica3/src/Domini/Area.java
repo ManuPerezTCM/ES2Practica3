@@ -13,7 +13,7 @@ public class Area {
   setNomArea(nomArea);
   setZona(zona);
  }
-
+//
  public int getId_area() {
   return id_area;
  }
